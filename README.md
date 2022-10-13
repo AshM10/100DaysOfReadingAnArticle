@@ -6,6 +6,7 @@
   - [How to write better code](#how-to-write-better-code)
   - [Make your React apps fast again](#make-your-react-apps-fast-again)
   - [Golang Aha! Moments: Generics](#golang-aha-moments-generics)
+- [Resources](#resources)
 
 ## Day 01
 
@@ -35,3 +36,7 @@ These articles are all from [Hashnode](https://hashnode.com)
 
 ### [Golang Aha! Moments: Generics](https://openziti.io/golang-aha-moments-generics?source=personalized-newsletter&source-id=2022-10-13)
 - by Paul Lorenz
+
+## Resources
+
+- [How to design better APIs](https://r.bluethl.net/how-to-design-better-apis)
