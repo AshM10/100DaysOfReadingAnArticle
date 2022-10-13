@@ -34,6 +34,25 @@ These articles are all from [Hashnode](https://hashnode.com)
 ### [Make your React apps fast again](https://avocadev.hashnode.dev/make-your-react-apps-fast-again?source=personalized-newsletter&source-id=2022-10-13)
 - by [Developer Avocado 🇺🇦](https://twitter.com/dev_avocado)
 
+- Profiling your React app and searching for bottlenecks
+  - Understanding how React updates its UI
+  - Measuring performance with React DevTools
+  - React performance optimization technizues
+    - Keeping component state local where necessary
+    - Memoizing React components to prevent unecessary re-renders
+    - Code-splitting in React using dynamic import()
+    - Virtualize Long Lists
+    - Lazy loading images in React
+    - Multiple Chunk Files
+  - Non React specific optimizations
+    - Serve everything from a CDN
+    - Use CSS Animations instead of JS Animations
+    - Move from CSS-in-JS
+    - SSR
+    - Optimizing NPM Dependencies
+    - Analyzing and Optimizing your Webpack Bundle Bloat
+    - Other considerations
+
 ### [Golang Aha! Moments: Generics](https://openziti.io/golang-aha-moments-generics?source=personalized-newsletter&source-id=2022-10-13)
 - by Paul Lorenz
 
