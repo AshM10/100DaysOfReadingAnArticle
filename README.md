@@ -1,4 +1,7 @@
 # 100DaysOfReadingAnArticle
+
+Documenting my #100DaysOfReadingAnArticle Challenge Tweets
+- Twitter: [@sexy_gravy](https://twitter.com/sexy_gravy)
  
 ## Table of Contents
 
