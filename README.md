@@ -59,3 +59,4 @@ These articles are all from [Hashnode](https://hashnode.com)
 ## Resources
 
 - [How to design better APIs](https://r.bluethl.net/how-to-design-better-apis)
+- [Introducing the New React DevTools](https://reactjs.org/blog/2019/08/15/new-react-devtools.html)
