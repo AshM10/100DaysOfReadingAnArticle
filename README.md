@@ -10,6 +10,8 @@ Preferably using [daily.dev](https://daily.dev)
   - [How to write better code](#how-to-write-better-code)
   - [Make your React apps fast again](#make-your-react-apps-fast-again)
   - [Golang Aha! Moments: Generics](#golang-aha-moments-generics)
+- [Day 02](#day-01)
+  - [Top 14 Cutting-Edge Web Development Trends in 2023](#top-14-cutting-edge-web-development-trends-in-2023)
 - [Resources](#resources)
 
 ## Day 01
@@ -59,6 +61,34 @@ These articles are all from [Hashnode](https://hashnode.com)
 
 ### [Golang Aha! Moments: Generics](https://openziti.io/golang-aha-moments-generics?source=personalized-newsletter&source-id=2022-10-13)
 - by Paul Lorenz
+
+## Day 02
+
+### [Top 14 Cutting-Edge Web Development Trends in 2023](https://yellow.systems/blog/web-development-future-trends)
+
+- Frontend development trends
+The time when a front-end web developer only needed to know HTML, CSS, and JavaScript is long gone. So, the way to keep pace with a rapidly changing environment is to watch the latest front-end technologies.
+
+![Screen Shot 2022-10-14 at 3 37 36 PM](https://user-images.githubusercontent.com/89284873/195939252-d5ab2e41-6221-42b7-82d6-7a21e1ffa66e.png)
+
+- Why JavaScript rocks?
+  - It’s an object-based and dynamic language used both on the client side and the server side.
+  - It’s supported by many browsers, such as Safari, Chrome, Firefox, and Internet Explorer.
+  - Interactivity is excellent because JavaScript is a language that gives the web page its structure and style.
+  - Many libraries and frameworks are available.
+  
+- Jamstack
+  - In the JAMstack definition (which appeared in 2015), JAM stands for JavaScript, API, and Markup, but now "Jamstack" is widely used. This is how Mathias Biilmann, the CEO and co-founder of Netlify, defines the term: "It’s a web development infrastructure based on client-side JavaScript, reusable APIs, and prebuilt Markup."
+  
+- Mobile-first Approach in Web Development
+  - Focus on vertical orientation rather than landscape one, and on functions done with a touchscreen. 
+  - Set up meta viewport tags to help browsers change how pages are scaled.
+  - Use different layout methods, e.g. Grid, Multi-Column, or Flexbox, to make layouts fit the viewport.
+  - Use CSS queries to change the size of things based on what the devices can do.
+
+- Headless Architecture for Content Management 
+
+![Screen Shot 2022-10-14 at 3 43 17 PM](https://user-images.githubusercontent.com/89284873/195940143-dc06494d-d643-4c75-b665-876482747016.png)
 
 ## Resources
 
