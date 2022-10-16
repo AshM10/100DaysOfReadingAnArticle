@@ -12,6 +12,8 @@ Preferably using [daily.dev](https://daily.dev)
   - [Golang Aha! Moments: Generics](#golang-aha-moments-generics)
 - [Day 02](#day-01)
   - [Top 14 Cutting-Edge Web Development Trends in 2023](#top-14-cutting-edge-web-development-trends-in-2023)
+- [Day 03](#day-03)
+  - [Dolt - A SQL Database that Works like Git](#dolt-a-sql-database-that-works-like-git)
 - [Resources](#resources)
 
 ## Day 01
@@ -89,6 +91,25 @@ The time when a front-end web developer only needed to know HTML, CSS, and JavaS
 - Headless Architecture for Content Management 
 
 ![Screen Shot 2022-10-14 at 3 43 17 PM](https://user-images.githubusercontent.com/89284873/195940143-dc06494d-d643-4c75-b665-876482747016.png)
+
+## Day 03
+
+### [Dolt - A SQL Database that Works like Git](https://cult.honeypot.io/reads/dolt-a-sql-database-that-works-like-git/)
+- by Chameera Dulanga
+
+- What is Dolt?
+Dolt is an SQL-based database that allows you to maintain your database like a Git repository.
+
+- Features of Dolt
+  - Versioning system similar to Git.
+  - Works with standard SQL connectors.
+  - Comes with a powerful CLI.
+  - Allows exploring the complete history of your data.
+  - Instant rollback to any commit.
+  - DoltHub provides a web-based UI to collaborate on Dolt databases.
+  - DoltLab allows the creation of self-hosted DoltHubs.
+  - Built-in backup and monitoring.
+  - Make money through DoltHub data bounties
 
 ## Resources
 
