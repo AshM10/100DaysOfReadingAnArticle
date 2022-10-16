@@ -14,6 +14,8 @@ Preferably using [daily.dev](https://daily.dev)
   - [Top 14 Cutting-Edge Web Development Trends in 2023](#top-14-cutting-edge-web-development-trends-in-2023)
 - [Day 03](#day-03)
   - [Dolt - A SQL Database that Works like Git](#dolt-a-sql-database-that-works-like-git)
+- [Day 04](#day-04)
+  - [Jokes only programmers will understand](#jokes-only-programmers-will-understand)
 - [Resources](#resources)
 
 ## Day 01
@@ -110,6 +112,13 @@ Dolt is an SQL-based database that allows you to maintain your database like a G
   - DoltLab allows the creation of self-hosted DoltHubs.
   - Built-in backup and monitoring.
   - Make money through DoltHub data bounties
+
+## Day 04
+
+### [Jokes only programmers will understand](https://codingpastor.hashnode.dev/jokes-only-programmers-will-understand)
+- by [Coding Pastor](https://hashnode.com/@codingpastor)
+
+** Note: I really enjoyed reading this one! This is your sign to lighten up and take a break! **
 
 ## Resources
 
