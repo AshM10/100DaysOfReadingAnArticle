@@ -16,6 +16,8 @@ Preferably using [daily.dev](https://daily.dev)
   - [Dolt - A SQL Database that Works like Git](#dolt-a-sql-database-that-works-like-git)
 - [Day 04](#day-04)
   - [Jokes only programmers will understand](#jokes-only-programmers-will-understand)
+- [Day 05](#day-05)
+  - [React Just Got Even More Awesome](#react-just-got-even-more-awesome)
 - [Resources](#resources)
 
 ## Day 01
@@ -119,6 +121,18 @@ Dolt is an SQL-based database that allows you to maintain your database like a G
 - by [Coding Pastor](https://hashnode.com/@codingpastor)
 
 ** Note: I really enjoyed reading this one! This is your sign to lighten up and take a break! **
+
+## Day 05
+
+### [React Just Got Even More Awesome](https://dev.to/dayvster/react-just-got-even-more-awesome-f15)
+- by [Dayvster](https://dev.to/dayvster)
+
+How does the use hook work?
+- Similary to await it simply unwraps the value of a promise, meaning that any async behaviour can be wrapped in a use hook now and react will natively handle the promise for us.
+
+Others:
+- [ReactJS rfcs](https://github.com/acdlite/rfcs/blob/first-class-promises/text/0000-first-class-support-for-promises.md)
+- [react-query](https://tanstack.com/query/v4)
 
 ## Resources
 
