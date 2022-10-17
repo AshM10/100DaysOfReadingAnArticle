@@ -143,3 +143,4 @@ Others:
 ## Badge
 
 - [AshM10 devcard](https://api.daily.dev/devcards/ac17d32f6d6740bfadf6867807a9e2a0.png?r=qk1)
+<img src="https://api.daily.dev/devcards/ac17d32f6d6740bfadf6867807a9e2a0.png?r=qk1">
