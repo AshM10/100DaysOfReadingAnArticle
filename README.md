@@ -19,7 +19,7 @@ Preferably using [daily.dev](https://daily.dev)
 - [Day 05](#day-05)
   - [React Just Got Even More Awesome](#react-just-got-even-more-awesome)
 - [Resources](#resources)
-- [Badge](#badge)
+- [Devcards](#devcards)
 
 ## Day 01
 
@@ -140,7 +140,13 @@ Others:
 - [How to design better APIs](https://r.bluethl.net/how-to-design-better-apis)
 - [Introducing the New React DevTools](https://reactjs.org/blog/2019/08/15/new-react-devtools.html)
 
-## Badge
+## Devcards
+
+Apparently, I have a few DevCards.
+Depends on which gadget I use to read the article! 🤭
+
+- [AshM10 devcard](https://api.daily.dev/devcards/26e912bd15b04e0cafe61d4b06b64bc7.png?r=xda)
+<a href="https://app.daily.dev/AshM10"><img src="https://api.daily.dev/devcards/26e912bd15b04e0cafe61d4b06b64bc7.png?r=xda" width="400" alt="Asther Marie Moreno's Dev Card"/></a>
 
 - [AshM10 devcard](https://api.daily.dev/devcards/ac17d32f6d6740bfadf6867807a9e2a0.png?r=qk1)
-<img src="https://api.daily.dev/devcards/ac17d32f6d6740bfadf6867807a9e2a0.png?r=qk1">
+<a href="https://app.daily.dev/AshM10"><img src="https://api.daily.dev/devcards/ac17d32f6d6740bfadf6867807a9e2a0.png?r=qk1" width="400" alt="Asther Marie Moreno's Dev Card"/></a>
