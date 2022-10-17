@@ -19,6 +19,7 @@ Preferably using [daily.dev](https://daily.dev)
 - [Day 05](#day-05)
   - [React Just Got Even More Awesome](#react-just-got-even-more-awesome)
 - [Resources](#resources)
+- [Badge](#badge)
 
 ## Day 01
 
@@ -138,3 +139,7 @@ Others:
 
 - [How to design better APIs](https://r.bluethl.net/how-to-design-better-apis)
 - [Introducing the New React DevTools](https://reactjs.org/blog/2019/08/15/new-react-devtools.html)
+
+## Badge
+
+- [AshM10 devcard](https://api.daily.dev/devcards/ac17d32f6d6740bfadf6867807a9e2a0.png?r=qk1)
