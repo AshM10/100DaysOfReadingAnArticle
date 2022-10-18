@@ -18,6 +18,8 @@ Preferably using [daily.dev](https://daily.dev)
   - [Jokes only programmers will understand](#jokes-only-programmers-will-understand)
 - [Day 05](#day-05)
   - [React Just Got Even More Awesome](#react-just-got-even-more-awesome)
+- [Day 06](#day-06)
+  - [Advice for Junior Developers](#advice-for-junior-developers)
 - [Resources](#resources)
 - [Devcards](#devcards)
 
@@ -135,10 +137,22 @@ Others:
 - [ReactJS rfcs](https://github.com/acdlite/rfcs/blob/first-class-promises/text/0000-first-class-support-for-promises.md)
 - [react-query](https://tanstack.com/query/v4)
 
+## Day 06
+
+### [Advice for Junior Developers](https://dev.to/jeroendedauw/advice-for-junior-developers-30am)
+- by [Jeroen De Dauw](https://twitter.com/JeroenDeDauw)
+
+The blog post mentions and links to many valuable concepts that you can explore further as you see fit. It has three sections:
+
+* Generic Advice — Important context and motivation for the technical advice
+* Technical Advice — The main course
+* Recommended Reading — Links to high-quality books and blogs that are great for getting started
+
 ## Resources
 
 - [How to design better APIs](https://r.bluethl.net/how-to-design-better-apis)
 - [Introducing the New React DevTools](https://reactjs.org/blog/2019/08/15/new-react-devtools.html)
+- [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)
 
 ## Devcards
 
