@@ -153,6 +153,7 @@ The blog post mentions and links to many valuable concepts that you can explore 
 - [How to design better APIs](https://r.bluethl.net/how-to-design-better-apis)
 - [Introducing the New React DevTools](https://reactjs.org/blog/2019/08/15/new-react-devtools.html)
 - [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)
+- [Hacktoberfest: Contributing to React project](https://dev.to/this_mkhy/hacktoberfest-contributing-to-react-project-2b47)
 
 ## Devcards
 
