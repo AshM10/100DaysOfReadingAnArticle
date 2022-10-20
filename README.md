@@ -21,7 +21,7 @@ Preferably using [daily.dev](https://daily.dev)
 - [Day 06](#day-06)
   - [Advice for Junior Developers](#advice-for-junior-developers)
 - [Day 07](#day-07)
-  - [Harvard CS50 – Free Computer Science University Course](#harvard-cs50-free-compute-science-university-course)
+  - [Harvard CS50 – Free Computer Science University Course](#harvard-cs50-free-computer-science-university-course)
 - [Resources](#resources)
 - [Devcards](#devcards)
 
