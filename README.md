@@ -20,6 +20,8 @@ Preferably using [daily.dev](https://daily.dev)
   - [React Just Got Even More Awesome](#react-just-got-even-more-awesome)
 - [Day 06](#day-06)
   - [Advice for Junior Developers](#advice-for-junior-developers)
+- [Day 07](#day-07)
+  - [Harvard CS50 – Free Computer Science University Course](#harvard-cs50-free-compute-science-university-course)
 - [Resources](#resources)
 - [Devcards](#devcards)
 
@@ -147,6 +149,16 @@ The blog post mentions and links to many valuable concepts that you can explore 
 * Generic Advice — Important context and motivation for the technical advice
 * Technical Advice — The main course
 * Recommended Reading — Links to high-quality books and blogs that are great for getting started
+
+## Day 07
+
+### [Harvard CS50 – Free Computer Science University Course](https://www.freecodecamp.org/news/harvard-cs50/)
+
+This course provides an introduction to the intellectual enterprises of computer science and the art of programming. This course teaches students how to think algorithmically and solve problems efficiently.
+
+Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web programming. Languages include C, Python, and SQL plus HTML, CSS, and JavaScript.
+
+[Link to the Youtube Videdo](https://www.youtube.com/watch?v=8mAITcNt710&t=4s) - 25-hour watch
 
 ## Resources
 
