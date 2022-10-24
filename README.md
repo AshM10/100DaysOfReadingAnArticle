@@ -168,6 +168,14 @@ Topics include abstraction, algorithms, data structures, encapsulation, resource
 
 Loved reading this article. VSCode is definitely my favorite IDE and I enjoy a lot of the extensions. Mostly because they make life easier for me. 
 
+### Here are some examples of stuff VS Code has added in recent months:
+
+- Improved autoscroll behaviour – This improves the editor's behaviour when you click and drag to select a long piece of text that spans multiple screens.
+- Explorer rename selection improvements – This allows you to use the F2 key to cycle through three different types of file renames: file name only, entire selection, and file extension only.
+- Editor sticky scroll – This improves the editor UI to show scope during scrolling. For example, you can immediately see which class, namespace, function, constructor, etc. you're in within your document.
+- Toggle between Light and Dark themes – This allows you to use a single command to switch between your preferred dark and light themes.
+
+
 ## Resources
 
 - [How to design better APIs](https://r.bluethl.net/how-to-design-better-apis)
