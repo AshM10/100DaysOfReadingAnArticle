@@ -22,6 +22,8 @@ Preferably using [daily.dev](https://daily.dev)
   - [Advice for Junior Developers](#advice-for-junior-developers)
 - [Day 07](#day-07)
   - [Harvard CS50 – Free Computer Science University Course](#harvard-cs50-free-computer-science-university-course)
+- [Day 08](#day-08)
+  - [VSCode Updates, Frameworks, Git/CLI, JS Utils](#vscode-updates-frameworks-git-cli-js-utils)
 - [Resources](#resources)
 - [Devcards](#devcards)
 
@@ -159,6 +161,12 @@ This course provides an introduction to the intellectual enterprises of computer
 Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web programming. Languages include C, Python, and SQL plus HTML, CSS, and JavaScript.
 
 [Link to the Youtube Videdo](https://www.youtube.com/watch?v=8mAITcNt710&t=4s) - 25-hour watch
+
+## Day 08
+
+### [VSCode Updates, Frameworks, Git/CLI, JS Utils](https://mailchi.mp/webtoolsweekly/web-tools-483)
+
+Loved reading this article. VSCode is definitely my favorite IDE and I enjoy a lot of the extensions. Mostly because they make life easier for me. 
 
 ## Resources
 
