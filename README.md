@@ -24,6 +24,8 @@ Preferably using [daily.dev](https://daily.dev)
   - [Harvard CS50 – Free Computer Science University Course](#harvard-cs50-free-computer-science-university-course)
 - [Day 08](#day-08)
   - [VSCode Updates, Frameworks, Git/CLI, JS Utils](#vscode-updates-frameworks-git-cli-js-utils)
+- [Day 09](#day-09)
+  - [Introducing Turbopack: Rust-based successor to Webpack](#introducing-turbopack-rust-based-successor-to-webpack)
 - [Resources](#resources)
 - [Devcards](#devcards)
 
@@ -168,13 +170,22 @@ Topics include abstraction, algorithms, data structures, encapsulation, resource
 
 Loved reading this article. VSCode is definitely my favorite IDE and I enjoy a lot of the extensions. Mostly because they make life easier for me. 
 
-### Here are some examples of stuff VS Code has added in recent months:
+Here are some examples of stuff VS Code has added in recent months:
 
 - Improved autoscroll behaviour – This improves the editor's behaviour when you click and drag to select a long piece of text that spans multiple screens.
 - Explorer rename selection improvements – This allows you to use the F2 key to cycle through three different types of file renames: file name only, entire selection, and file extension only.
 - Editor sticky scroll – This improves the editor UI to show scope during scrolling. For example, you can immediately see which class, namespace, function, constructor, etc. you're in within your document.
 - Toggle between Light and Dark themes – This allows you to use a single command to switch between your preferred dark and light themes.
 
+## Day 09
+
+### [Introducing Turbopack: Rust-based successor to Webpack](https://vercel.com/blog/turbopack)
+
+- How fast is Turbopack?
+
+Turbopack is built on a new incremental architecture for the fastest possible development experience. On large applications, it shows updates 10x faster than Vite and 700x faster than Webpack. On even larger applications, the difference is greater—often 20x faster than Vite.
+
+Turbopack only bundles the minimum assets required in development, so startup time is extremely fast. On an application with 3,000 modules, Turbopack takes 1.8 seconds to boot up, while Vite takes 11.4 seconds.
 
 ## Resources
 
