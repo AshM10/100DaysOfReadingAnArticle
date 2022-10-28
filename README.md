@@ -26,6 +26,8 @@ Preferably using [daily.dev](https://daily.dev)
   - [VSCode Updates, Frameworks, Git/CLI, JS Utils](#vscode-updates-frameworks-git-cli-js-utils)
 - [Day 09](#day-09)
   - [Introducing Turbopack: Rust-based successor to Webpack](#introducing-turbopack-rust-based-successor-to-webpack)
+- [Day 10](#day-10)
+  - [Next.js 13](#next-js-13)
 - [Resources](#resources)
 - [Devcards](#devcards)
 
@@ -186,6 +188,21 @@ Here are some examples of stuff VS Code has added in recent months:
 Turbopack is built on a new incremental architecture for the fastest possible development experience. On large applications, it shows updates 10x faster than Vite and 700x faster than Webpack. On even larger applications, the difference is greater—often 20x faster than Vite.
 
 Turbopack only bundles the minimum assets required in development, so startup time is extremely fast. On an application with 3,000 modules, Turbopack takes 1.8 seconds to boot up, while Vite takes 11.4 seconds.
+
+## Day 10
+
+### [Next.js 13](https://nextjs.org/blog/next-13)
+
+Next.js 13 lays the foundations to be dynamic without limits:
+
+- app/ Directory (beta): Easier, faster, less client JS.
+  - Layouts
+  - React Server Components
+  - Streaming
+- Turbopack (alpha): Up to 700x faster Rust-based Webpack replacement.
+- New next/image (stable): Faster with native browser lazy loading.
+- New @next/font (beta): Automatic self-hosted fonts with zero layout shift.
+- Improved next/link: Simplified API with automatic <a>.
 
 ## Resources
 
