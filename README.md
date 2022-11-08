@@ -28,6 +28,8 @@ Preferably using [daily.dev](https://daily.dev)
   - [Introducing Turbopack: Rust-based successor to Webpack](#introducing-turbopack-rust-based-successor-to-webpack)
 - [Day 10](#day-10)
   - [Next.js 13](#next-js-13)
+- [Day 11](#day-11)
+  - [An animated guide for Node.js event loop](#an-animated-guide-for-node-js-event-loop)
 - [Resources](#resources)
 - [Devcards](#devcards)
 
@@ -203,6 +205,16 @@ Next.js 13 lays the foundations to be dynamic without limits:
 - New next/image (stable): Faster with native browser lazy loading.
 - New @next/font (beta): Automatic self-hosted fonts with zero layout shift.
 - Improved next/link: Simplified API with automatic <a>.
+
+## Day 11
+
+### [An animated guide for Node.js event loop](https://dev.to/nodedoctors/an-animated-guide-to-nodejs-event-loop-3g62)
+
+- Conclusion
+
+The event loop, the delegation, and the asynchronous processing mechanism are Node.js's secret ingredients to process thousands of connections, read/write gigantic files, handling timers while working on other parts of our code.
+
+In the article, we saw the vital role of Libuv and its ability to handle numerous potentially long-running tasks. At the same time, we went through the event loop and its role as a bridge/connector between callbacks of asynchronous operations in the I/O event queue and the call stack. In the following articles, we will explore in greater detail how timers, I/O, promises, and ticks are handled by the different phases of the event loop.
 
 ## Resources
 
