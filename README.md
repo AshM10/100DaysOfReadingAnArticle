@@ -32,6 +32,8 @@ Preferably using [daily.dev](https://daily.dev)
   - [An animated guide for Node.js event loop](#an-animated-guide-for-node-js-event-loop)
 - [Day 12](#day-12)
   -  [How LinkedIn Uses Machine Learning To Rank Your Feed](#how-linkedin-uses-machine-learning-to-rank-your-feed)
+- [Day 13](#day-13)
+  -  [Building a Music Player in React](#building-a-music-player-in-react)
 - [Resources](#resources)
 - [Devcards](#devcards)
 
@@ -226,6 +228,12 @@ In the article, we saw the vital role of Libuv and its ability to handle numerou
 
 - Relevant Topic:
 (Strategies for Keeping the LinkedIn Feed Relevant)[https://engineering.linkedin.com/blog/2017/03/strategies-for-keeping-the-linkedin-feed-relevant]
+
+## Day 13
+
+### [Building a Music Player in React}(https://dev.to/documatic/building-a-music-player-in-react-2aa4)
+
+- I totally love this article and would want to give this project a go! 
 
 ## Resources
 
