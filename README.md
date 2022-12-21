@@ -34,6 +34,8 @@ Preferably using [daily.dev](https://daily.dev)
   -  [How LinkedIn Uses Machine Learning To Rank Your Feed](#how-linkedin-uses-machine-learning-to-rank-your-feed)
 - [Day 13](#day-13)
   -  [Building a Music Player in React](#building-a-music-player-in-react)
+- [Day 14](#day-14)
+  - [Awesome Dev Tool Tips](#awesome-dev-tool-tips)
 - [Resources](#resources)
 - [Devcards](#devcards)
 
@@ -234,6 +236,62 @@ In the article, we saw the vital role of Libuv and its ability to handle numerou
 ### [Building a Music Player in React}(https://dev.to/documatic/building-a-music-player-in-react-2aa4)
 
 - I totally love this article and would want to give this project a go! 
+
+## Day 14
+
+### [Awesome Dev Tool Tips](https://dev.to/lissy93/awesome-dev-tool-tips-32oo)
+
+<details open>
+<summary>Contents of this Article</summary>
+<li>Design Mode</li>
+<li>Pretty Print</li></li>
+<li>Command Pallet and Super Search</li>
+<li>Snippets</li>
+<li>Live Expressions</li>
+<li>Tracking Changes</li>
+<li>Console Shorthand</li>
+<li>Find Unused Code</li>
+<li>Rendering Panel</li>
+<li>Network Paint Times</li>
+<li>Network Timings</li>
+<li>Inspect Network Requests</li>
+<li>Performance</li>
+<li>Identifying Memory Leaks</li>
+<li>Raw Memory Inspection</li>
+<li>Test bfcache</li>
+<li>Full Refresh</li>
+<li>Lighthouse</li>
+<li>Page Size Breakdown</li>
+<li>Record User Flows</li>
+<li>Advanced User Flow Operations</li>
+<li>Pausing Execution with Breakpoints</li>
+<li>Remote Debugging</li>
+<li>Mock Location and Sensors</li>
+<li>Death by Errors, no more!</li>
+<li>View and Edit Storage</li>
+<li>Debug Background Services</li>
+<li>HTTPS Security Checks</li>
+<li>Web Auth</li>
+<li>Accessibility Tools</li>
+<li>Screenshots</li>
+<li>Super-Copying</li>
+<li>Animations Timeline</li>
+<li>Forcing Elements State</li>
+<li>CSS Sizes and Units</li>
+<li>Color Pallets</li>
+<li>Easy Box Shadows</li>
+<li>Easy Animations</li>
+<li>Responsive Design Mode</li>
+<li>Badges</li>
+<li>Rulers</li>
+<li>Style Overview</li>
+<li>Layers</li>
+<li>Saving Changes to Disk</li>
+<li>Automation</li>
+<li>Familiar Shortcuts</li>
+<li>Dark Mode</li>
+<li>Useful Add-Ons</li>
+</details>
 
 ## Resources
 
