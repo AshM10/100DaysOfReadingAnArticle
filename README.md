@@ -310,6 +310,7 @@ In the article, we saw the vital role of Libuv and its ability to handle numerou
 <li>Promises and async-await syntax.</li>
 <li>Basic error handling</li>
 </details>
+
 - You don't need to learn class components
 - Do yourself a favor and learn React Query: You can install React Query through the npm package @tanstack/react-query.
 - You don't need to learn Redux
