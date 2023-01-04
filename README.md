@@ -36,6 +36,8 @@ Preferably using [daily.dev](https://daily.dev)
   -  [Building a Music Player in React](#building-a-music-player-in-react)
 - [Day 14](#day-14)
   - [Awesome Dev Tool Tips](#awesome-dev-tool-tips)
+- [Day 15](#day-15)
+  -  [How to Learn React in 2023](#how-to-learn-react-in-20223)
 - [Resources](#resources)
 - [Devcards](#devcards)
 
@@ -292,6 +294,34 @@ In the article, we saw the vital role of Libuv and its ability to handle numerou
 <li>Dark Mode</li>
 <li>Useful Add-Ons</li>
 </details>
+
+## Day 15
+
+### [How to Learn React in 2023](https://www.freecodecamp.org/news/how-to-learn-react-in-2023/)
+
+<details open>
+<summary>Here is a shortlist of some of the concepts in JavaScript that you will need to understand to be able to use React effectively. These include:</summary>
+<li>Variables</li>
+<li>Arrays (and the .map() function)</li>
+<li>Objects</li>
+<li>JavaScript events</li>
+<li>Functions and arrow functions</li>
+<li>Scopes and closures</li>
+<li>Promises and async-await syntax.</li>
+<li>Basic error handling</li>
+</details>
+- You don't need to learn class components
+- Do yourself a favor and learn React Query: You can install React Query through the npm package @tanstack/react-query.
+- You don't need to learn Redux
+- Some of these newer, "lighter" state management libraries include:
+1. Zustand
+2. Jotai
+3. Recoil
+- Don't necessarily reach for create react appn instead you can use:
+1. Vite
+2. Next.js
+
+*[React Bootcamp](https://reactbootcamp.com)*
 
 ## Resources
 
