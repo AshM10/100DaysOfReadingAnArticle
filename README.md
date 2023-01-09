@@ -38,6 +38,8 @@ Preferably using [daily.dev](https://daily.dev)
   - [Awesome Dev Tool Tips](#awesome-dev-tool-tips)
 - [Day 15](#day-15)
   -  [How to Learn React in 2023](#how-to-learn-react-in-20223)
+- [Day 16](#day-16)
+  - [MERN stack for Web Development](#mern-stack-for-web-development)
 - [Resources](#resources)
 - [Devcards](#devcards)
 
@@ -323,6 +325,18 @@ In the article, we saw the vital role of Libuv and its ability to handle numerou
 2. Next.js
 
 *[React Bootcamp](https://reactbootcamp.com)*
+
+## Day 16
+
+### [MERN stack for Web Development](https://awstip.com/mern-stack-for-web-development-72ff226f45ec)
+
+MERN is a full-stack JavaScript solution that consists of four frameworks: MongoDB, ExpressJS, ReactJS, and NodeJS. These frameworks are used to develop scalable, secure, and high-performance web applications:
+1. MongoDB is a NoSQL database that stores data in a JSON-like format called BSON. 
+2. ExpressJS is a web application framework for building backend services and RESTful APIs. 
+3. ReactJS is a frontend framework for designing the user interface and handling navigation between screens. 
+4. NodeJS is a JavaScript backend environment for building backend services and static web interfaces. 
+
+- MERN offers advantages such as a high delivery speed, customizable technologies, and the ability to code full-stack applications using only one programming language (JavaScript or TypeScript).
 
 ## Resources
 
