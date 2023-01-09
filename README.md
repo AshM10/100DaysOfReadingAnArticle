@@ -336,6 +336,9 @@ MERN is a full-stack JavaScript solution that consists of four frameworks: Mongo
 3. ReactJS is a frontend framework for designing the user interface and handling navigation between screens. 
 4. NodeJS is a JavaScript backend environment for building backend services and static web interfaces. 
 
+<img width="571" alt="Screenshot 2023-01-08 at 8 34 48 PM" src="https://user-images.githubusercontent.com/89284873/211232838-8779c5ab-fd54-40f2-8eae-7e29d7dea2a4.png">
+
+
 - MERN offers advantages such as a high delivery speed, customizable technologies, and the ability to code full-stack applications using only one programming language (JavaScript or TypeScript).
 
 ## Resources
