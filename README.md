@@ -40,6 +40,8 @@ Preferably using [daily.dev](https://daily.dev)
   -  [How to Learn React in 2023](#how-to-learn-react-in-20223)
 - [Day 16](#day-16)
   - [MERN stack for Web Development](#mern-stack-for-web-development)
+- [Day 17](#day-17)
+  - [7 tips for improving your productivity with Git](#7-tips-for-improving-your-productivity-with-git)
 - [Resources](#resources)
 - [Devcards](#devcards)
 
@@ -340,6 +342,12 @@ MERN is a full-stack JavaScript solution that consists of four frameworks: Mongo
 
 
 - MERN offers advantages such as a high delivery speed, customizable technologies, and the ability to code full-stack applications using only one programming language (JavaScript or TypeScript).
+
+## Day 17
+
+### [7 tips for improving your productivity with Git](https://dev.to/dgenezini/7-tips-for-improving-your-productivity-with-git-ajg)
+
+This article lists 7 tips for improving productivity with Git. The tips cover features of Git such as removing remote-deleted branches on fetch, merging and rebasing without checking out the target branch, triggering the CI/CD pipeline with a blank commit, viewing a file in another branch, checking out the previously used branch, searching in Git and showing the commit log as a graph. Each tip provides an example of how to use the feature and includes a link to relevant documentation.
 
 ## Resources
 
