@@ -42,6 +42,8 @@ Preferably using [daily.dev](https://daily.dev)
   - [MERN stack for Web Development](#mern-stack-for-web-development)
 - [Day 17](#day-17)
   - [7 tips for improving your productivity with Git](#7-tips-for-improving-your-productivity-with-git)
+- [Day 18](#day-18)
+  - [Super Useful CSS Resources](#super-useful-css-resources)
 - [Resources](#resources)
 - [Devcards](#devcards)
 
@@ -348,6 +350,12 @@ MERN is a full-stack JavaScript solution that consists of four frameworks: Mongo
 ### [7 tips for improving your productivity with Git](https://dev.to/dgenezini/7-tips-for-improving-your-productivity-with-git-ajg)
 
 This article lists 7 tips for improving productivity with Git. The tips cover features of Git such as removing remote-deleted branches on fetch, merging and rebasing without checking out the target branch, triggering the CI/CD pipeline with a blank commit, viewing a file in another branch, checking out the previously used branch, searching in Git and showing the commit log as a graph. Each tip provides an example of how to use the feature and includes a link to relevant documentation.
+
+## Day 18
+
+### [Super Useful CSS Resources](https://dev.to/lissy93/super-useful-css-resources-1ba3)
+
+This article is a list of 70 hand-picked web-based tools that are useful for web development. These tools are all open source and generate pure CSS without the need for JavaScript or any external libraries. The tools are divided into categories such as property generators, animations, backgrounds, color tools, typography, loaders, layouts and informative. The tools include Neumorphism, which generates Soft-UI CSS styles using inset shadows, Fancy Border Radius, which generates cool shaped objects with border-radius, Glassmorphism, which builds semi-transparent, blurred glass-like backgrounds, Animista, which is a CSS animation playground and generator, and Hero Patterns, which finds and customizes simple pure-CSS patterned backgrounds.
 
 ## Resources
 
