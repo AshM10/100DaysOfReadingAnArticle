@@ -44,6 +44,8 @@ Preferably using [daily.dev](https://daily.dev)
   - [7 tips for improving your productivity with Git](#7-tips-for-improving-your-productivity-with-git)
 - [Day 18](#day-18)
   - [Super Useful CSS Resources](#super-useful-css-resources)
+- [Day 19](#day-19)
+  - [Airtest - Generate unit tests using AI](#airtest-generate-unit-tests-using-ai))
 - [Resources](#resources)
 - [Devcards](#devcards)
 
@@ -356,6 +358,18 @@ This article lists 7 tips for improving productivity with Git. The tips cover fe
 ### [Super Useful CSS Resources](https://dev.to/lissy93/super-useful-css-resources-1ba3)
 
 This article is a list of 70 hand-picked web-based tools that are useful for web development. These tools are all open source and generate pure CSS without the need for JavaScript or any external libraries. The tools are divided into categories such as property generators, animations, backgrounds, color tools, typography, loaders, layouts and informative. The tools include Neumorphism, which generates Soft-UI CSS styles using inset shadows, Fancy Border Radius, which generates cool shaped objects with border-radius, Glassmorphism, which builds semi-transparent, blurred glass-like backgrounds, Animista, which is a CSS animation playground and generator, and Hero Patterns, which finds and customizes simple pure-CSS patterned backgrounds.
+
+## Day 19
+
+### [Airtest - Generate unit tests using AI](https://www.producthunt.com/posts/airtest)
+
+Airtest is a tool that uses AI to generate unit tests for various programming languages including C#, C++, Go, Java, JavaScript, PHP, Python, R Lang, Ruby, and Swift. It allows users to paste a block of code, select their desired language and testing framework, then generates the unit tests automatically.
+
+- What is unit test and why is it important?
+
+A unit test is a type of software testing where individual units or components of a software application are tested in isolation from the rest of the application. The goal of a unit test is to validate that each unit of the software performs as intended. Unit tests are typically written by developers as they write the code, and are run automatically as part of a continuous integration process.
+
+Unit testing is important because it helps to catch bugs early in the development process, when they are less expensive to fix. It also improves the overall quality of the codebase by ensuring that individual units are working correctly. Additionally, unit tests serve as living documentation for the code and make it easier for other developers to understand and maintain the codebase. Finally, unit tests make it much easier to refactor code with confidence, knowing that if any regressions are introduced, the tests will catch them.
 
 ## Resources
 
