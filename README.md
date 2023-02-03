@@ -46,6 +46,8 @@ Preferably using [daily.dev](https://daily.dev)
   - [Super Useful CSS Resources](#super-useful-css-resources)
 - [Day 19](#day-19)
   - [Airtest - Generate unit tests using AI](#airtest-generate-unit-tests-using-ai))
+- [Day 20](#day-20)
+  - [Git Commit Patterns](#git-commit-patterns)
 - [Resources](#resources)
 - [Devcards](#devcards)
 
@@ -370,6 +372,12 @@ Airtest is a tool that uses AI to generate unit tests for various programming la
 A unit test is a type of software testing where individual units or components of a software application are tested in isolation from the rest of the application. The goal of a unit test is to validate that each unit of the software performs as intended. Unit tests are typically written by developers as they write the code, and are run automatically as part of a continuous integration process.
 
 Unit testing is important because it helps to catch bugs early in the development process, when they are less expensive to fix. It also improves the overall quality of the codebase by ensuring that individual units are working correctly. Additionally, unit tests serve as living documentation for the code and make it easier for other developers to understand and maintain the codebase. Finally, unit tests make it much easier to refactor code with confidence, knowing that if any regressions are introduced, the tests will catch them.
+
+## Day 20
+
+### [Git Commit Patterns](https://dev.to/hornet_daemon/git-commit-patterns-5dm7)
+
+The Conventional Commits Pattern is a simple convention for writing git commit messages that helps maintain consistency and clarity in a project's commit history. The pattern consists of a mandatory type (feat, test, refactor, style, fix, chore, docs, build, perf, ci, or revert) that indicates the nature of the change, an optional scope that provides context to the change, and a subject that states the change in imperative form. The scope must be separated from other scopes with a "/".
 
 ## Resources
 
